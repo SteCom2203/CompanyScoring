@@ -3,6 +3,7 @@
 ---------------
 
 --> **Quick overview**
+
 This repository hosts a side project file on company scoring. Based on various management theories, one can evaluate his company through this website. The score is made of two grades:
     - One about the external interactions of the company (/5)
     - One about the internal structure of the company (/5)
